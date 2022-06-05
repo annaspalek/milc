@@ -8,9 +8,8 @@ body {
 }
 
 .block {
-  display: block; /* the default for span */
+  display: block; 
   width: 900px;
-  height: 900px;
   padding-top: 50px;
   padding-left: 30px;
   padding-right: 30px;
